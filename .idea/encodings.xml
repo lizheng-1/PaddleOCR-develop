@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/car/data/car_board.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/card_pre_main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fnayi.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiekou" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lstm/data/car_board.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lstm/data/dict_car.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/name_pre" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/name_pre/name_pre.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/port.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/t1.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/t2.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
